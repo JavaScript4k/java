@@ -1,0 +1,27 @@
+.css{
+    color: black;
+    text-align: center;
+    background-color: aqua;
+    border-radius: 50px;
+}
+.h1{
+    color: yellow;
+    text-align: center;
+    background-color: black;
+}
+.h2{
+    color: red;
+}
+
+.images img { 
+    width: 300px;
+}
+
+.img{
+    background-color: black;
+    text-align: center;
+    border-top-right-radius: 50px ;
+    border-bottom-left-radius: 50px ;
+
+}
+
